@@ -10,22 +10,31 @@ This project demonstrates how keystroke logging mechanisms function at a technic
 🎯 Objectives
 
 ● Understand how keylogging techniques work
+
 ● Demonstrate user input capture mechanisms
+
 ● Analyze potential security risks
+
 ● Study defensive detection techniques
 
 🛠 Technologies Used
 
 ● Python 3
+
 ● pynput library (if used)
+
 ● logging module
+
 ● OS file handling
 
 ⚙️ Features
 
 ● Captures keyboard inputs
+
 ● Stores logs in structured format
+
 ● Timestamp logging
+
 ● Background execution simulation 
 
 
@@ -53,20 +62,27 @@ This project demonstrates how keystroke logging mechanisms function at a technic
 Keystroke logging can be used maliciously to:
 
 ● Steal credentials
+
 ● Capture sensitive information
+
 ● Monitor user behavior without consent
  
 Understanding these techniques helps security professionals:
 ● Detect malicious software
+
 ● Implement endpoint protection
+
 ● Design behavioral monitoring systems
 
 
 🛡 Defensive Measures
 
 ● Use updated antivirus & EDR solutions
+
 ● Monitor suspicious background processes
+
 ● Restrict administrative privileges
+
 ● Enable OS-level input protection mechanisms
 
 
